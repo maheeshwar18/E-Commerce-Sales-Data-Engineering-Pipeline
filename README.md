@@ -181,3 +181,8 @@ This project helped me strengthen my practical understanding of data engineering
 **Domain:** Data Engineering
 
 **Technologies:** Python | PySpark | Apache Spark | Databricks | AI/BI Dashboards
+
+## Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/maheeshwar-ravula/
+- **GitHub:** https://github.com/maheeshwar18
