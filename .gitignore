@@ -1,0 +1,26 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+*.pem
+*.key
+
+# Databricks local configuration
+.databrickscfg
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
