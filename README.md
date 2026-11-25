@@ -110,6 +110,25 @@ Tracks order-related activities and provides insights into the order lifecycle.
 
 ### Dashboard Screenshots
 
+
+## Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](Screenshots/Executive Overview.jpg)
+
+### 2. Sales Analysis
+![Sales Analysis](Screenshots/Sales Analysis.jpg)
+
+### 3. Product Analysis
+![Product Analysis](Screenshots/Product Analysis.jpg)
+
+### 4. Payment Analysis
+![Payment Analysis](Screenshots/Payment Analysis.jpg)
+
+### 5. Order Lifecycle
+![Order Lifecycle](Screenshots/Order Lifecycle.jpg)
+
+
 <!-- Add screenshots of all five dashboard pages here -->
 
 ## Key Features
@@ -141,9 +160,7 @@ E-Commerce-Sales-Data-Engineering-Pipeline/
 │   └── Order_Lifecycle.png
 │
 ├── architecture/
-│
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ## Key Learnings
