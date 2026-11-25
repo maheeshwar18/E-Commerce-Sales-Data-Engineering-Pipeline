@@ -108,28 +108,22 @@ Tracks order-related activities and provides insights into the order lifecycle.
 
 [View E-Commerce Sales Dashboard](https://dbc-c555ecc8-77eb.cloud.databricks.com/dashboardsv3/01f1e7fc83f9151290a1f433ab1265a8/published/pages/order_lifecycle?o=7474658799844077)
 
-### Dashboard Screenshots
-
-
 ## Dashboard Screenshots
 
 ### 1. Executive Overview
-![Executive Overview](Screenshots/Executive Overview.jpg)
+![Executive Overview](Screenshots/Executive%20Overview.jpg)
 
 ### 2. Sales Analysis
-![Sales Analysis](Screenshots/Sales Analysis.jpg)
+![Sales Analysis](Screenshots/Sales%20Analysis.jpg)
 
 ### 3. Product Analysis
-![Product Analysis](Screenshots/Product Analysis.jpg)
+![Product Analysis](Screenshots/Product%20Analysis.jpg)
 
 ### 4. Payment Analysis
-![Payment Analysis](Screenshots/Payment Analysis.jpg)
+![Payment Analysis](Screenshots/Payment%20Analysis.jpg)
 
 ### 5. Order Lifecycle
-![Order Lifecycle](Screenshots/Order Lifecycle.jpg)
-
-
-<!-- Add screenshots of all five dashboard pages here -->
+![Order Lifecycle](Screenshots/Order%20Lifecycle.jpg)
 
 ## Key Features
 
